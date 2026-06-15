@@ -1,4 +1,4 @@
-# Sprint03_PYTHON
+# Sprint02_PYTHON
 ***
 ### Integrantes:
 ### Gabriela Caetano - RM: 572738
